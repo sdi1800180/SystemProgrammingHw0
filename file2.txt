@@ -1,0 +1,21 @@
+./progDelay 100
+./progSkra 100
+./progDam 100
+./progDelay 100
+./progSkra 100
+./progDelay 100
+./progSkra 100
+./progDam 100
+./progDelay 100
+./progSkra 100
+./progDelay 100
+./progSkra 100
+./progDam 100
+./progDelay 100
+./progSkra 100
+./progDelay 100
+./progSkra 100
+./progDam 100
+./progDelay 100
+./progSkra 100
+ls
